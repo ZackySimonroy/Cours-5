@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1095790711333",
+    "firebase_url": "https://cours-5-info.firebaseio.com",
+    "project_id": "cours-5-info",
+    "storage_bucket": "cours-5-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095790711333:android:092084e136891c2c",
+        "android_client_info": {
+          "package_name": "com.example.a533.cours5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095790711333-n2p6dr0tv5dfim3djtgbq333jba1u49f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfO3HWKRLtC7lj38w0kKjmwsaj5jDnthc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
